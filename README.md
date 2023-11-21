@@ -51,27 +51,6 @@ To better communicate the results of his findings to the rest of the family, Lui
 
 
 
-
-### Correlation visualizations
-
-cc
-
 # Conclusions
 
-After finalizing the analysis and visualization of the data the following conclusions are extracted:
-
- - Having a player as a draw control specialist is a good strategy and will have a positive impact on team results.
-
-- Teams strategy should take into account both attack and deffense tactics to ensure success. 
-
- - Shooting is more important than shooting accurate... If you don't shoot you have a 100% chance of not scoring. 
-
- - There are some differences in the game across conferences but none of the observed make one whole conference better than another one. 
-
- - As in most sports, success in woman's lacrosse is a combination of parcticing and mastering many variables. 
-
-
-
-# Links of interest
-
-- Presentation: https://www.canva.com/design/DAFyv848aXQ/1oICXROx4PYCOfGHgYA9nw/edit 
+xxx
