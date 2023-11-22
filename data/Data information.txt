@@ -1,5 +1,0 @@
-video_games: updated 2 months ago
-(https://www.kaggle.com/datasets/ghassenkhaled/video-games-data?rvi=1)
-
-board_games: updated 1 month ago
-(https://www.kaggle.com/datasets/sujaykapadnis/board-games?rvi=1)
